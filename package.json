@@ -1,6 +1,6 @@
 {
   "name": "@mkdigo/datetime",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Make working with date and time easier in JavaScript",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",

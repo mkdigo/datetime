@@ -1,4 +1,4 @@
-import { DateTime } from 'datetime';
+import { DateTime } from '@mkdigo/datetime';
 
 function dateToString(date: Date): string {
   return date
