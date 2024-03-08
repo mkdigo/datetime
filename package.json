@@ -1,6 +1,6 @@
 {
   "name": "@mkdigo/datetime",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Make working with date and time easier in JavaScript",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -15,14 +15,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.11.25",
-    "@types/react": "^18.2.64",
-    "@types/react-dom": "^18.2.21",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
     "typescript": "^5.4.2"
   },
-  "peerDependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  }
+  "peerDependencies": {}
 }
