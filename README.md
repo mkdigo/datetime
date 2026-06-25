@@ -4,6 +4,16 @@ A TypeScript utility class designed to encapsulate, manipulate, validate, and fo
 
 ---
 
+## Getting Started
+
+Install DateTime using your favorite package manager:
+
+```bash
+npm install @mkdigo/datetime
+```
+
+---
+
 ## 📌 Table of Contents
 
 - [Practical Usage Examples](#-practical-usage-examples)

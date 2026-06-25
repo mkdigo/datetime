@@ -1,6 +1,6 @@
 {
   "name": "@mkdigo/datetime",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Make working with date and time easier in JavaScript",
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
@@ -14,7 +14,18 @@
   "files": [
     "dist"
   ],
-  "keywords": [],
+  "keywords": [
+    "datetime",
+    "date",
+    "time",
+    "utils",
+    "helper",
+    "typescript",
+    "validation",
+    "regex",
+    "interval",
+    "age-calculator"
+  ],
   "author": "Rodrigo Mukudai",
   "license": "MIT",
   "devDependencies": {
